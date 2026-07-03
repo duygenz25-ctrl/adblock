@@ -14,4 +14,11 @@ animevietsub.love##.Footer
 ||tipclub.cx^
 ||ball88.men^
 ||improving.duckduckgo.com^
+||moneyveo.vn^
+nettruyenqq.org##footer > .wrapper
+animehay08.site##.ah-footer__inner
+m.memuplay.com###footer
+apkpure.com##.footer_new
+truyenqq.com.vn##.product-grid
+truyenqq.com.vn##footer > .wrapper
 
