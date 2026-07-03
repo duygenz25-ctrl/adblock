@@ -14,10 +14,6 @@ animevietsub.love##.Footer
 www.bing.com###aitools
 www.bing.com###footer
 www.bing.com##.b_poleContent
-animehay08.site###top-banner > div
-animehay08.site##[src*="\/ad_banner\/hdbet\.gif\?v\=2\.4"]
-animehay08.site##[src*="\/ad_banner\/3bet\.gif\?v\=1\.8"]
-animehay08.site##[src*="\/ad_banner\/ball88\.gif\?v\=1\.5"]
 duckduckgo.com##.set-browser-promo__content
 duckduckgo.com##.set-browser-promo
 duckduckgo.com##.set-docs-link > div
@@ -28,8 +24,4 @@ duckduckgo.com###setting_container_kaq
 duckduckgo.com###setting_container_kap
 duckduckgo.com###setting_container_kao
 duckduckgo.com###setting_container_kau
-animehay.zip##.container.footer-columns > .row.container
-animehay.work##.ads
-animehay.work##.border-top
-
 
