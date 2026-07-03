@@ -47,3 +47,7 @@ www.ecosia.org##.notice-card.card.card--as-div
 www.ecosia.org##.notice-card__binary-feedback.binary-feedback
 www.ecosia.org##.main-footer__content
 
+! startpage
+www.startpage.com##.app-promo.css-1odp1dz
+www.startpage.com##.footer-above-the-fold.css-134o16g
+www.startpage.com##.css-wdiap8.eu3pp1u0
