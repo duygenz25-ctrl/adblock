@@ -9,3 +9,9 @@ truyenqqko.com##footer.light:nth-of-type(1)
 truyenqqko.com##.chapter_content > span.text-center:nth-of-type(1)
 truyenqqko.com##.chapter_content > span.text-center:nth-of-type(2)
 truyenqqko.com##.main_content > span.text-center:nth-of-type(1)
+animevietsub.love##[src*="https\:\/\/lh3\.googleusercontent\.com\/jLmubMHhzNSZkuxjweTycOOReGz2wMIfSTQ3Arqy07GO9ohFw596i-9nuN6xXqzNr0nAUg6AiCOjlNnmDxRfPFlLnxnlDY-yq03GIvOKckE8hXjJkwQblZgUH3rHbg\=s0"]
+animevietsub.love##.announcement
+animevietsub.love##.Footer
+animehay08.site###top-banner > div
+animehay08.site##.ah-footer__inner
+animehay08.site##.ah-footer__bottom-inner
