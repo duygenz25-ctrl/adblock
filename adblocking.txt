@@ -29,5 +29,7 @@ duckduckgo.com###setting_container_kap
 duckduckgo.com###setting_container_kao
 duckduckgo.com###setting_container_kau
 animehay.zip##.container.footer-columns > .row.container
+animehay.work##.ads
+animehay.work##.border-top
 
 
